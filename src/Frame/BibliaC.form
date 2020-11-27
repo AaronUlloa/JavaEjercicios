@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="undecorated" type="boolean" value="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,99,0,0,4,35"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="e3" green="cc" red="a9" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+            <MatteColorBorder>
+              <Color PropertyName="color" blue="aa" green="e0" red="82" type="rgb"/>
+            </MatteColorBorder>
+          </Border>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="300" height="610"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JSeparator" name="jSeparator3">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="20" width="278" height="22"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JSeparator" name="jSeparator6">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="30" width="278" height="22"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="JLImagenBL">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/ImageBiblia/1.png"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="50" y="40" width="-1" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JSeparator" name="jSeparator4">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="140" width="278" height="22"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JSeparator" name="jSeparator5">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="10" y="150" width="278" height="22"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="160" width="300" height="450"/>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="e3" green="cc" red="a9" type="rgb"/>
+                </Property>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Dialog" size="14" style="0"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="Bienvenido a esta hermosa seccion, &#xa;aqui estara toda la infrmacion biblica&#xa;que he utilizado en mi proytecto.&#xa;&#xa;Esta seccion nacio con el proposito &#xa;de que tu puedas acceder a toda esta&#xa;informacion biblica de manera rapida &#xa;y ordenada.&#xa;&#xa;Esta dividia en peque&#xf1;as columnas que &#xa;estaran hablando del tema especifico &#xa;con su referencia biblica.&#xa;&#xa;Mi querido amigo o hermano en Cristo&#xa;se que Dios, nuestro Dios padre tiene&#xa;un plan especifico para tu vida&#xa;el realmente te ama y quiere tener una&#xa;relacion genuina con tigo. El conoce tus&#xa;problemas, tus sufrimientos y tus miedos &#xa;el esta dispuesto a amarte &#xa;como nadie lo ha hecho en este mundo &#xa;el esta dispuesto a escucharte &#xa;porque para el tu eres importante, tu eres su&#xa;maxima creacion y no quiere que te pierdas &#xa;en el camino ancho el cual te lleva a la&#xa;muerte eterna.&#xa;&#xa;El vino a darte VIDA Y VIDA EN ABUNDANCIA&#xa;solo tienes que reconocer y confezar&#xa;que el es el hijo de Dios&#xa;y que Jehova lo levanto de entre los muertos&#xa;porque  con el corazon se cree para justicia &#xa;pero con la boca se confieza para salvacion."/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="null"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="e3" green="cc" red="a9" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+            <MatteColorBorder>
+              <Color PropertyName="color" blue="aa" green="e0" red="82" type="rgb"/>
+            </MatteColorBorder>
+          </Border>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="300" y="0" width="760" height="70"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="JLBackHome">
+          <Properties>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/Image/home.png"/>
+            </Property>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="JLBackHomeMouseClicked"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="688" y="17" width="44" height="41"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JSeparator" name="jSeparator1">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="270" y="20" width="220" height="20"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="DialogInput" size="25" style="1"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="SANTA BIBLIA"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="268" y="17" width="221" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JSeparator" name="jSeparator2">
+          <Properties>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="270" y="50" width="220" height="20"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="300" y="72" width="760" height="540"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="JPanelDocum">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="12" green="9c" red="f3" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="false"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="JLPecadoBiblia">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/ImageBiblia/p1.png"/>
+                </Property>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="JLPecadoBibliaMouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="85" y="58" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="JLPermanecerBl">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/ImageBiblia/prm.png"/>
+                </Property>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="JLPermanecerBlMouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="470" y="594" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="404" y="171" width="334" height="368"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea3">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="12" green="9c" red="f3" type="rgb"/>
+                    </Property>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Dialog" size="13" style="0"/>
+                    </Property>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="Libertad. &#xa;&#xbf;Puedes sentirla? &#xbf;Qu&#xe9; beneficio es mayor que la libertad? &#xa;Por encima de todo, encima del dinero, buenos autos, sobresalir en los deportes, &#xa;la mayor&#xed;a aprecia la libertad. Pero, &#xbf;eres realmente libre?&#xa;&#xa;Te dejo algunos textos biblicos.&#xa;&#xa;Cristo nos libert&#xf3; para que vivamos en libertad. &#xa;Por lo tanto, mant&#xe9;nganse firmes y no se sometan nuevamente al yugo de esclavitud.&#xa;(G&#xe1;latas 5:1)&#xa;&#xa;Ahora bien, el Se&#xf1;or es el Esp&#xed;ritu; y, donde est&#xe1; el Esp&#xed;ritu del Se&#xf1;or, all&#xed; hay libertad.&#xa;(2 Corintios 3:17)&#xa;&#xa;As&#xed; que si el Hijo los libera, ser&#xe1;n ustedes verdaderamente libres.&#xa;(Juan 8:36)&#xa;&#xa;Les hablo as&#xed;, hermanos, porque ustedes han sido llamados a ser libres; &#xa;pero no se valgan de esa libertad para dar rienda suelta a sus pasiones. &#xa;M&#xe1;s bien s&#xed;rvanse unos a otros con amor.&#xa;(G&#xe1;latas 5:13)&#xa;&#xa;Por lo tanto, ya no hay ninguna condenaci&#xf3;n para los que est&#xe1;n unidos a Cristo Jes&#xfa;s, pues por medio de &#xe9;l la ley del Esp&#xed;ritu de vida me ha liberado de la ley del pecado y de la muerte.&#xa;(Romanos 8:1-2)&#xa;&#xa;Pero ahora que han sido liberados del pecado y se han puesto al servicio de Dios, cosechan la santidad que conduce a la vida eterna.&#xa;(Romanos 6:22 )&#xa;&#xa;Entonces, &#xbf;qu&#xe9;? &#xbf;Vamos a pecar porque no estamos ya bajo la ley sino bajo la gracia? &#xa1;De ninguna manera!&#xa;(Romanos 6:15)&#xa;&#xa;Dios da un hogar a los desamparados y libertad a los cautivos; los rebeldes habitar&#xe1;n en el desierto.&#xa;(Salmos 68:6)"/>
+                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                      <Border info="null"/>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="169" width="333" height="368"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea4">
+                  <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="12" green="9c" red="f3" type="rgb"/>
+                    </Property>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Dialog" size="13" style="0"/>
+                    </Property>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="El pecado s&#xed; tiene consecuencias. De hecho, &#xa;si piensas en las formas en las que otros te han hecho mal, &#xa;lo que permanece contigo no es tanto lo que hicieron, &#xa;sino lo que eso te ocasion&#xf3;, la consecuencia que tuvo en tu vida. &#xa;Una vez que alguien peca contra nosotros gravemente, &#xa;sucede algo curioso: &#xa;el mal proceder de esa persona llega a ser m&#xe1;s prominente&#xa;en el panorama de nuestra relaci&#xf3;n que lo que &#xe9;l o ella es.&#xa;&#xa;El pecado siempre termina en muerte, &#xa;no siempre en un final f&#xed;sico de la vida de alguien, &#xa;sino en una interrupci&#xf3;n de la relaci&#xf3;n con las personas &#xa;contra las que hemos pecado y un final a la vida futura&#xa;que habr&#xed;amos disfrutado si no hubi&#xe9;ramos pecado.&#xa;&#xa;Porque la paga del pecado es muerte, mientras que la d&#xe1;diva de Dios &#xa;es vida eterna en Cristo Jes&#xfa;s, nuestro Se&#xf1;or.&#xa;(Romanos 6:23).&#xa;&#xa;Ahora te dejare los vesiculos que he ocupado acerca del pecado.&#xa;&#xa;&#xbf;No saben que los malvados no heredar&#xe1;n el reino de Dios?&#xa;&#xa1;No se dejen enga&#xf1;ar! Ni los fornicarios, ni los id&#xf3;latras, &#xa;ni los ad&#xfa;lteros, ni los sodomitas, ni los pervertidos sexuales, &#xa;ni los ladrones, ni los avaros, ni los borrachos, &#xa;ni los calumniadores, ni los estafadores heredar&#xe1;n el reino de Dios.&#xa;(1 Corintios 6:9-10).&#xa;&#xa;Por tanto, para que sean borrados sus pecados, arrepi&#xe9;ntanse y vu&#xe9;lvanse a Dios, &#xa;a fin de que vengan tiempos de descanso de parte del Se&#xf1;or.&#xa;(Hechos 3:19)&#xa;&#xa;No amen al mundo ni nada de lo que hay en &#xe9;l. Si alguien ama al mundo, &#xa;no tiene el amor del Padre.&#xa;(1 Juan 2:15 )&#xa;&#xa;Porque donde hay envidias y rivalidades, tambi&#xe9;n hay confusi&#xf3;n y toda clase de acciones malvadas.&#xa;(Santiago 3:16) &#xa;&#xa;&#xbf;Qu&#xe9; concluiremos? &#xa;&#xbf;Vamos a persistir en el pecado, para que la gracia abunde? &#xa;&#xa1;De ninguna manera! Nosotros, que hemos muerto al pecado, &#xa;&#xbf;c&#xf3;mo podemos seguir viviendo en &#xe9;l?&#xa;(Romanos 6:1-2)&#xa;&#xa;&#xc9;l es el sacrificio por el perd&#xf3;n de nuestros pecados, y no s&#xf3;lo por los nuestros sino por los de todo el mundo.&#xa;(1 Juan 2:2)&#xa;&#xa;&#xc9;l fue traspasado por nuestras rebeliones,&#xa;y molido por nuestras iniquidades;&#xa;sobre &#xe9;l recay&#xf3; el castigo, precio de nuestra paz,&#xa;y gracias a sus heridas fuimos sanados.&#xa;(Isa&#xed;as 53:5)"/>
+                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                      <Border info="null"/>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="JLRegeneracionBl">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/ImageBiblia/n2.png"/>
+                </Property>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="JLRegeneracionBlMouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="85" y="594" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="JLBreakingChain1">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/ImageBiblia/c1.png"/>
+                </Property>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="JLBreakingChain1MouseClicked"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="468" y="58" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="707" width="334" height="368"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea5">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="12" green="9c" red="f3" type="rgb"/>
+                    </Property>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Dialog" size="13" style="0"/>
+                    </Property>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="NACER DE NUEVO (REGENERACION)&#xa;Muchas personas no ven el valor de la vida de Jes&#xfa;s. &#xa;Uno tiene que nacer de nuevo para ver el reino de Dios.&#xa;Uno no puede recibir algo de Dios si vive en comuni&#xf3;n con malos esp&#xed;ritus y busca las cosas que pertenecen a este mundo. &#xa;Si uno no escucha la voz de Dios ni experimenta revelaci&#xf3;n y avivamiento en su interior, &#xa;es por causa de que nuestros pensamientos e impulsos  a&#xfa;n provienen de este mundo.&#xa;&#xa;TEXTOS BIBLICOS.&#xa;&#xa;Respondi&#xf3; Jes&#xfa;s y le dijo: En verdad, en verdad te digo que el que no nace de nuevo no puede ver el reino de Dios.&#xa;(Juan 3:3)&#xa;&#xa;que si confiesas con tu boca a Jes&#xfa;s {por} Se&#xf1;or, y crees en tu coraz&#xf3;n que Dios le resucit&#xf3; de entre los muertos, ser&#xe1;s salvo;&#xa;(Romanos 10:9)&#xa;&#xa;Bendito sea el Dios y Padre de nuestro Se&#xf1;or Jesucristo, quien seg&#xfa;n su gran misericordia, &#xa;nos ha hecho nacer de nuevo a una esperanza viva, mediante la resurrecci&#xf3;n de Jesucristo de entre los muertos,&#xa;(1 Pedro 1:3)&#xa;&#xa;De modo que si alguno est&#xe1; en Cristo, nueva criatura {es}; las cosas viejas pasaron; he aqu&#xed;, son hechas nuevas.&#xa;(2 Corintios 5:17)&#xa;&#xa;&#xbf;O no sab&#xe9;is que todos los que hemos sido bautizados en Cristo Jes&#xfa;s, hemos sido bautizados en su muerte?&#xa;(Romanos 6:3)&#xa;&#xa;{Pues} hab&#xe9;is nacido de nuevo, no de una simiente corruptible, sino {de una que es} incorruptible, {es decir,} mediante la palabra de Dios que vive y permanece.&#xa;(1 Pedro 1:23)&#xa;&#xa;Y Pedro les {dijo:} Arrepent&#xed;os y sed bautizados cada uno de vosotros en el nombre de Jesucristo para perd&#xf3;n de vuestros pecados, y recibir&#xe9;is el don del Esp&#xed;ritu Santo.&#xa;(Hechos 2:38)&#xa;&#xa;Porque la paga del pecado es muerte, pero la d&#xe1;diva de Dios es vida eterna en Cristo Jes&#xfa;s Se&#xf1;or nuestro.&#xa;(Romanos 6:23)&#xa;&#xa;Porque por gracia hab&#xe9;is sido salvados por medio de la fe, y esto no de vosotros, {sino que es} don de Dios; no por obras, para que nadie se glor&#xed;e.&#xa;(Efesios 2:8-9)&#xa;&#xa;pues todos sois hijos de Dios mediante la fe en Cristo Jes&#xfa;s.&#xa;(G&#xe1;latas 3:26)&#xa;&#xa;Lo que es nacido de la carne, carne es, y lo que es nacido del Esp&#xed;ritu, esp&#xed;ritu es.&#xa;(Juan 3:6)&#xa;&#xa;El nos salv&#xf3;, no por obras de justicia que nosotros hubi&#xe9;ramos hecho, sino conforme a su misericordia, &#xa;por medio del lavamiento de la regeneraci&#xf3;n y la renovaci&#xf3;n por el Esp&#xed;ritu Santo,&#xa;(Tito 3:5)&#xa;&#xa;que si confiesas con tu boca a Jes&#xfa;s {por} Se&#xf1;or, y crees en tu coraz&#xf3;n que Dios le resucit&#xf3; de entre los muertos, ser&#xe1;s salvo; &#xa;porque con el coraz&#xf3;n se cree para justicia, y con la boca se confiesa para salvaci&#xf3;n.&#xa;(Romanos 10:9-10)&#xa;&#xa;Entonces el SE&#xd1;OR Dios form&#xf3; al hombre del polvo de la tierra, y sopl&#xf3; en su nariz el aliento de vida; y fue el hombre un ser viviente.&#xa;(G&#xe9;nesis 2:7)&#xa;"/>
+                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                      <Border info="null"/>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="404" y="707" width="334" height="368"/>
+                </Constraint>
+              </Constraints>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTextArea" name="jTextArea6">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="12" green="9c" red="f3" type="rgb"/>
+                    </Property>
+                    <Property name="columns" type="int" value="20"/>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Dialog" size="13" style="0"/>
+                    </Property>
+                    <Property name="rows" type="int" value="5"/>
+                    <Property name="text" type="java.lang.String" value="PERMANECER.&#xa;Ciertamente Dios nos perfecciona como disc&#xed;pulos, como cristianos, como personas, &#xa;como padres, madres, hijos, estudiantes, abuelos, trabajadores, etc. etc. etc. &#xa;Para ello es importante colaborar con nuestro Dios si queremos tambi&#xe9;n ser perfeccionados por &#xc9;l. &#xa;El atleta que entrena sigue las instrucciones de su entrenador, quien le conoce bien, &#xa;conoce la disciplina del deporte en cuesti&#xf3;n y como obtener los mejores resultados. &#xa;Vayamos cada d&#xed;a a entrenar con Dios para que nos perfeccione. Los resultados son para la victoria.&#xa;&#xa;Vemos a Dios perfeccionando Su obra en Mateo 21:16 ...&#xa;de la boca de los ni&#xf1;os y de los que maman perfeccionaste la alabanza. &#xa;Tambi&#xe9;n le dec&#xed;a Jes&#xfa;s a Pablo que Su poder se perfecciona en su debilidad, 2 Corintios 12:9, tambi&#xe9;n lo hace en la nuestra.&#xa;&#xa;TEXTOS BIBLICOS&#xa;&#xa;Sigan por el camino que el Se&#xf1;or su Dios les ha trazado, para que vivan, prosperen y disfruten de larga vida en la tierra que van a poseer.&#xa;(Deuteronomio 5:33) &#xa;&#xa;El Se&#xf1;or mismo marchar&#xe1; al frente de ti y estar&#xe1; contigo; nunca te dejar&#xe1; ni te abandonar&#xe1;. No temas ni te desanimes.&#xa;(Deuteronomio 31:8)  &#xa;&#xa;Gu&#xed;a mis pasos conforme a tu promesa; no dejes que me domine la iniquidad.&#xa;(Salmos 119:133)&#xa;  &#xa;Una vez m&#xe1;s Jes&#xfa;s se dirigi&#xf3; a la gente, y les dijo: &#x2014;Yo soy la luz del mundo. El que me sigue no andar&#xe1; en tinieblas, sino que tendr&#xe1; la luz de la vida.&#xa;(Juan 8:12)&#xa;&#xa;Que el Se&#xf1;or los lleve a amar como Dios ama, y a perseverar como Cristo persever&#xf3;.&#xa;(2 Tesalonicenses 3:5)&#xa;  &#xa;Solamente al Se&#xf1;or tu Dios debes seguir y rendir culto. Cumple sus mandamientos y obed&#xe9;celo; s&#xed;rvele y permanece fiel a &#xe9;l.&#xa;(Deuteronomio 13:4)&#xa;  &#xa;Y el que no toma su cruz y me sigue no es digno de m&#xed;.&#xa;(Mateo 10:38)&#xa;  &#xa;Entonces llam&#xf3; a la multitud y a sus disc&#xed;pulos.&#x2014;Si alguien quiere ser mi disc&#xed;pulo &#x2014;les dijo&#x2014;, que se niegue a s&#xed; mismo, lleve su cruz y me siga.&#xa;(Marcos 8:34)&#xa;  &#xa;Si el Esp&#xed;ritu nos da vida, andemos guiados por el Esp&#xed;ritu.&#xa;(G&#xe1;latas 5:25)&#xa;&#xa;Por tanto, imiten a Dios, como hijos muy amados.&#xa;(Efesios 5:1)&#xa;&#xa;Dichosos todos los que temen al Se&#xf1;or, los que van por sus caminos.&#xa;(Salmos 128:1)&#xa;&#xa;Quien quiera servirme, debe seguirme; y donde yo est&#xe9;, all&#xed; tambi&#xe9;n estar&#xe1; mi siervo. A quien me sirva, mi Padre lo honrar&#xe1;.&#xa;(Juan 12:26)&#xa; &#xa;Para esto fueron llamados, porque Cristo sufri&#xf3; por ustedes, d&#xe1;ndoles ejemplo para que sigan sus pasos.&#xa;(1 Pedro 2:21)&#xa;&#xa;El Se&#xf1;or afirma los pasos del hombre cuando le agrada su modo de vivir.&#xa;(Salmos 37:23)&#xa;&#xa;Porque somos hechura de Dios, creados en Cristo Jes&#xfa;s para buenas obras, las cuales Dios dispuso de antemano a fin de que las pongamos en pr&#xe1;ctica.&#xa;(Efesios 2:10) &#xa;  &#xa;Y todo lo que hagan, de palabra o de obra, h&#xe1;ganlo en el nombre del Se&#xf1;or Jes&#xfa;s, dando gracias a Dios el Padre por medio de &#xe9;l.&#xa;(Colosenses 3:17) &#xa;&#xa;Jes&#xfa;s se dirigi&#xf3; entonces a los jud&#xed;os que hab&#xed;an cre&#xed;do en &#xe9;l, y les dijo: &#x2014;Si se mantienen fieles a mis ense&#xf1;anzas, ser&#xe1;n realmente mis disc&#xed;pulos; y conocer&#xe1;n la verdad, y la verdad los har&#xe1; libres.&#xa;(Juan 8:31-32) &#xa; &#xa;Si quieres ser perfecto, anda, vende lo que tienes y d&#xe1;selo a los pobres, y tendr&#xe1;s tesoro en el cielo. Luego ven y s&#xed;gueme.&#xa;(Mateo 19:21 )"/>
+                    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                      <Border info="null"/>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
